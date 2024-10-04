@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on: AI pipelines and cloud architecture.<br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: AWS Solutions Architect and advanced AI.<br>💬 Ask me about: Cloud services and coding strategies.<br>⚡ Fun fact: Chess enthusiast and tech problem-solver!
+🔭 Currently working on: AI pipelines and cloud architecture.<br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: AWS Solutions Architect and advanced AI.<br>💬 Ask me about: Cloud services and coding strategies.<br>⚡
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-salwan) 
@@ -11,7 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandeepsalwan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepsalwan1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepsalwan1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeepsalwan1&icon=0&color=0)](https://visitcount.itsvg.in)
