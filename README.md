@@ -4,7 +4,6 @@
 🔭 Currently working on: AI pipelines and cloud architecture.<br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: AWS Solutions Architect and advanced AI.<br>💬 Ask me about: Cloud services and coding strategies.<br>⚡ Fun fact: Chess enthusiast and tech problem-solver!
 
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-salwan) 
 
 # 💻 Tech Stack:
