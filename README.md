@@ -12,11 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-salwan) 
 
 # 📊 GitHub Stats:
-
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepsalwan1&theme=radical" alt="Summary Card" width="500" height="300" style="border-radius: 10px;">
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepsalwan1&theme=dark&hide_border=false)<br/>
 
 
 
