@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-salwan) 
 
 # 🔨 I've contributed to
-[<img src="assets/azure.png" height="50px">](https://github.com/MicrosoftDocs/azure-docs/pulls?q=author%3Asandeepsalwan1+)
+[<img src="assets/Azure.png" height="50px">](https://github.com/MicrosoftDocs/azure-docs/pulls?q=author%3Asandeepsalwan1+)
 [<img src="assets/linux.png" height="50px">](https://github.com/torvalds/linux)
 [<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Asandeepsalwan1+)
 
