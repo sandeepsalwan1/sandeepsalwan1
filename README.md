@@ -13,7 +13,7 @@
 
 # 🔨 I've contributed to
 [<img src="assets/Azure.png" height="50px">](https://github.com/MicrosoftDocs/azure-docs/pulls?q=author%3Asandeepsalwan1+)
-[<img src="assets/linux.png" height="50px">](https://github.com/torvalds/linux)
+[<img src="assets/linux.png" height="50px">]([https://github.com/torvalds/linux](https://lkml.org/lkml/last100/))
 [<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Asandeepsalwan1+)
 
 
