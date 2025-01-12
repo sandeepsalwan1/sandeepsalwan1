@@ -12,9 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-salwan) 
 
 # 🔨 I've contributed to
-[<img src="assets/Azure.png" height="50px">](https://github.com/MicrosoftDocs/azure-docs/pulls?q=author%3Asandeepsalwan1+)
-[<img src="assets/linux.png" height="50px">](https://lkml.org/lkml/last100/)
 [<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Asandeepsalwan1+)
+[<img src="assets/linux.png" height="50px">]([https://lkml.org/lkml/last100/](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-testing&id=5c3bd74635b626b198ca7b494c3826f2cf990fe7))
+[<img src="assets/Azure.png" height="50px">](https://github.com/MicrosoftDocs/azure-docs/pulls?q=author%3Asandeepsalwan1+)
 
 
 # 📊 GitHub Stats:
