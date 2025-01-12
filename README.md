@@ -23,7 +23,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepsalwan1&theme=dark&hide_border=false)<br/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsalwan1&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph%20(Last%2030%20Days)" width="100%"/>
+</div>
 
 
 <!--
