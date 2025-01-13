@@ -13,7 +13,7 @@
 
 # 🔨 I've contributed to
 [<img src="assets/dt.png" height="50px">](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=author%3Asandeepsalwan1+)
-[<img src="assets/linux.png" height="50px">](https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-testing&id=5c3bd74635b626b198ca7b494c3826f2cf990fe7)
+[<img src="assets/linux.png" height="50px">](https://lore.kernel.org/all/20250110233834.64147-1-salwansandeep5@gmail.com/)
 [<img src="assets/angular.png" height="50px">](https://github.com/angular/angular/pulls?q=author%3Asandeepsalwan1+)
 [<img src="assets/ionic.png" height="50px">](https://github.com/ionic-team/ionic-docs/pulls?q=author%3Asandeepsalwan1+)
 [<img src="assets/supabase.png" height="50px">](https://github.com/supabase/supabase/pulls?q=author%3Asandeepsalwan1+)
