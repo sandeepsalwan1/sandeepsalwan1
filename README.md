@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on: AI pipelines and cloud architecture.<br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: AWS Solutions Architect and advanced AI.<br>💬 Ask me about: Cloud services and coding strategies.<br>
+🔭 Currently working on: NewsFactChecker and Imessage substitute<br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: AWS Solutions Architect and advanced AI.<br>💬 Ask me about: Cloud services and coding strategies.<br>
 
 
 # 💻 Tech Stack:
