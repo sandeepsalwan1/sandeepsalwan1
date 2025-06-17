@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on: NewsFactChecker and Zero to Hero <br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: Neural Networks and mastering AI fundamentals.<br>💬 Ask me about: Cloud services and coding strategies.<br>
+🔭 Currently working on: NewsFactChecker and Zero to Hero <br>🤝 Looking to collaborate on: Machine learning and backend projects.<br>👐 Need help with: AWS optimization and CI/CD workflows.<br>🌱 Learning: Neural Networks and applied AI.<br>💬 Ask me about: Cloud services and coding strategies.<br>
 
 
 # 💻 Tech Stack:
