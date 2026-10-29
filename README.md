@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepsalwan1&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph%20(Last%2030%20Days)" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sandeepsalwan1/sandeepsalwan1/output/activity-graph.svg" alt="GitHub activity graph" width="100%"/>
 </div>
 
 
